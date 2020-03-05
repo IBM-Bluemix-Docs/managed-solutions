@@ -65,6 +65,7 @@ Managed Solutions
 
     {: .topicgroup } 
     Release notes
+        20191100-new-and-changed-features.md
         20190809-new-and-changed-features.md
         20190510-new-and-changed-features.md
         20190412-new-and-changed-features.md
