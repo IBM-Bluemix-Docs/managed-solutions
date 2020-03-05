@@ -65,6 +65,10 @@ Managed Solutions
 
     {: .topicgroup } 
     Release notes
+        20200300-new-and-changed-features.md
+        20200200-new-and-changed-features.md
+        20200100-new-and-changed-features.md
+        20191200-new-and-changed-features.md
         20191100-new-and-changed-features.md
         20190809-new-and-changed-features.md
         20190510-new-and-changed-features.md
@@ -73,7 +77,7 @@ Managed Solutions
         20190215-new-and-changed-features.md
         20190118-new-and-changed-features.md
     {: .navgroup-end} 
-
+      
     {: .navgroup id="help"} 
     {: .topicgroup } 
     Frequently asked questions (FAQs)
