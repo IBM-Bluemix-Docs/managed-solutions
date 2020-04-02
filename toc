@@ -65,6 +65,7 @@ Managed Solutions
 
     {: .topicgroup } 
     Release notes
+        20200400-new-and-changed-features.md
         20200300-new-and-changed-features.md
         20200200-new-and-changed-features.md
         20200100-new-and-changed-features.md
