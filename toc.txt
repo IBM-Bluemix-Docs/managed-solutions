@@ -1,0 +1,93 @@
+{:navgroup: .navgroup} 
+{:topicgroup: .topicgroup} 
+
+{: .toc subcollection="managed-solutions" audience="service" href="/docs/services/managed-solutions?topic=GettingStarted.html" path="services/managed-solutions"} 
+Managed Solutions
+
+    {: .navgroup id="learn"} 
+    getting-started.md
+    common-page-features.md
+    {: .navgroup-end} 
+
+    {: .navgroup id="howto"} 
+    view-your-services-overview.md
+    view-notifications.md
+    dismiss-a-notification.md
+
+    {: .topicgroup } 
+    Applications
+        view-your-applications.md
+        view-sap-systems.md
+        view-oracle-systems.md
+
+    {: .topicgroup } 
+    Servers
+        view-your-servers.md
+        view-server-information-and-usage.md
+        view-metrics-from-a-server.md
+
+    {: .topicgroup } 
+    Insights
+        view-your-metrics.md
+        view-your-reports.md
+
+    {: .topicgroup } 
+    Health
+        view-your-alerts.md
+
+    {: .topicgroup } 
+    Service support cases
+        view-your-service-support-cases.md
+        view-service-support-case-information.md
+        create-a-service-support-case.md
+        change-a-tracking-number-or-attachment-on-a-service-support-case.md
+        add-comments-to-a-service-support-case.md
+        change-the-watch-list-of-a-service-support-case.md
+        change-the-priority-of-an-incident.md
+
+    {: .topicgroup } 
+    Service support service schedule
+        view-your-service-support-service-schedule.md
+
+    {: .topicgroup } 
+    Service support change request approvers
+        view-your-change-request-approvers.md
+        add-a-change-request-approver.md
+        edit-a-change-request-approver.md
+        delete-a-change-request-approver.md
+    {: .navgroup-end} 
+
+    {: .navgroup id="reference"} 
+    {: .topicgroup } 
+    Application programming interfaces
+        use-security-with-application-programming-interfaces.md
+        application-programming-interface-specifications.md
+
+    {: .topicgroup } 
+    Release notes
+        20200800-new-and-changed-features.md
+        20200700-new-and-changed-features.md
+        20200600-new-and-changed-features.md
+        20200500-new-and-changed-features.md
+        20200400-new-and-changed-features.md
+        20200300-new-and-changed-features.md
+        20200200-new-and-changed-features.md
+        20200100-new-and-changed-features.md
+        20191200-new-and-changed-features.md
+        20191100-new-and-changed-features.md
+        20190809-new-and-changed-features.md
+        20190510-new-and-changed-features.md
+        20190412-new-and-changed-features.md
+        20190315-new-and-changed-features.md
+        20190215-new-and-changed-features.md
+        20190118-new-and-changed-features.md
+    {: .navgroup-end} 
+      
+    {: .navgroup id="help"} 
+    {: .topicgroup } 
+    Frequently asked questions (FAQs)
+        faqs-for-ibm-cloud.md
+        faqs-for-access-and-login.md
+        faqs-for-accounts.md
+        faqs-for-errors.md
+    {: .navgroup-end} 
