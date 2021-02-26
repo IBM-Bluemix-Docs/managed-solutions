@@ -160,7 +160,7 @@ have, or create, an IBM Cloud account with the same email address.
 
 1.  To invite a user to the account, follow the instructions in
     [Inviting
-    users](/docs/iam/iamuserinv.html#iamuserinv)
+    users](/docs/account?topic=account-iamuserinv)
     from the IBM Cloud documentation. Under **Assign access to**, select
     `Resource` and under **Services**, select `Managed Solutions`. If
     `Managed Solutions` is not available under **Services**, select `All
@@ -168,7 +168,7 @@ have, or create, an IBM Cloud account with the same email address.
 2.  To elevate permissions of a user to allow that user to invite other
     users to the account, follow the instructions in [Assigning access
     to account management
-    services](/docs/iam?topic=iam-account-services#account-services)
+    services](/docs/account?topic=account-account-services)
     to modify the user. As discussed in the article, you can provide
     very granular permission to invite users with a policy that gives
     the user access to all account management services in the account by
